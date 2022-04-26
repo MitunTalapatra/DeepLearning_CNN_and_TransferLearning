@@ -28,3 +28,7 @@ model parameters:
     
     Dense(4,activation='softmax') # you could keep only this dense layer and remove the other dense layers
     ])
+
+<img width="407" alt="Screenshot 2022-04-26 at 22 05 20" src="https://user-images.githubusercontent.com/21356490/165383186-f46fe663-25ee-4e37-abee-3fe4bd5f4ded.png">
+
+<img width="404" alt="Screenshot 2022-04-26 at 22 06 07" src="https://user-images.githubusercontent.com/21356490/165383222-8d1a4fba-f1fd-4e36-a0e7-0cdb035c5cbc.png">
