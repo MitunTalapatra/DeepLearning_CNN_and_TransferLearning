@@ -1,4 +1,4 @@
-# DeepLearning: CNN and TransferLearning for image classification
+# Deep Learning: CNN and TransferLearning for image classification
 
 The aim of the project was to apply CNN and pre-trained model (MobileNet) for image classification. This project was conducted to be familiar with Deep Learning models.
 
